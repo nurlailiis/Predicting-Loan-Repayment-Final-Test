@@ -1,8 +1,10 @@
 # Predicting Loan Repayment Final Test
 --- 
 ## Introduction
+
 Berikut merupakan struktur coding untuk pengerjaan soal *Final Test* Python dengan menggunakan dataset loan_data.csv. <br>
 [Link](https://drive.google.com/file/d/1K6OMDYu6yRdUO65Le1NbRBTNFPsbAX6s/view?usp=sharing) Download sebagai berikut.
+
 ---
 ### Submission
 - Gunakan Jupyter Notebook
